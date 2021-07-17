@@ -5,6 +5,8 @@ Welcome to kitchen
 kheer
 Paneer
 Chicken fry
+pasta
+pizza
 
 
 thank you
